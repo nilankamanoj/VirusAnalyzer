@@ -2,7 +2,8 @@
 # Virus Anlyzer
 virus/malware analyzer using signature patterns of each infection using yara. 
 
-[![N|Solid](https://javacc.org/new-javacc-logo.png)](https://javacc.org/)
+[![N|Solid](https://virustotal.github.io/yara/images/logo.png)](https://virustotal.github.io/yara/)
+
 # Instructions to use and upgrade
 1. download yara executable from https://code.google.com/archive/p/yara-project/downloads
 2. extract archive to the working derectory where analyse.cmd located.
